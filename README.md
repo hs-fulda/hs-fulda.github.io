@@ -1,6 +1,6 @@
 # Fulda University of Applied Sciences
 
-Welcome to the non-yet-official GitHub repositories of the HS-Fulda. It is maintain by alumni, students and professors. Join and help the community with your projects and ideas ;)
+Welcome to the non-yet-official GitHub repositories of the HS-Fulda. It is maintained by alumni, students and professors. Join and help the community with your projects and ideas ;)
 
 
 ## Collaborations
